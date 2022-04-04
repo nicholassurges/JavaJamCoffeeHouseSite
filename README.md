@@ -1,7 +1,9 @@
 # JavaJamCoffeeHouseSite
 
 JavaJam Coffee House
-Purpose
+
+Purpose<br>
+
 A website that offers great coffee and entertainment.
 
 Built With
