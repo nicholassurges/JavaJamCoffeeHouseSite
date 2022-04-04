@@ -6,14 +6,14 @@ Purpose<br>
 
 A website that offers great coffee and entertainment.
 
-Built With
-HTML
-CSS
-E-Commerce
+Built With<br>
+HTML<br>
+CSS<br>
+E-Commerce<br>
 Website
 https://nicholassurges.github.io/JavaJamCoffeeHouseSite/
 
-Contribution
-Made with ❤️ by Nick Surges
+Contribution<br>
+Made with ❤️ by Nick Surges<br><br>
 
 ©️2022 JavaJam Coffee House
