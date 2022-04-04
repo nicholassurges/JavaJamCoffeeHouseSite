@@ -6,11 +6,11 @@ Purpose<br>
 
 A website that offers great coffee and entertainment.
 
-Built With<br>
+Built With:<br>
 HTML<br>
 CSS<br>
 E-Commerce<br>
-Website
+Website: 
 https://nicholassurges.github.io/JavaJamCoffeeHouseSite/
 
 Contribution<br>
